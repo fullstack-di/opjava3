@@ -14,6 +14,7 @@ class Students
 		total=a+b+c+d+e;
 		per=(total/500)*100;
 		System.out.println("percentage"+per);
+		System.out.println("total"+total);
 	}
 }
  		
